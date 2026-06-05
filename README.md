@@ -62,6 +62,8 @@ Start the frontend server:
 npm run dev
 Admin App Setup
 Navigate to the admin directory:
+<img width="1348" height="588" alt="image" src="https://github.com/user-attachments/assets/cfc02a69-5d6f-466b-bea5-86145c059869" />
+
 
 cd admin
 Install dependencies:
